@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="weather-7b0a6b" version="0.0.0">
+ <names>
+  <name lang="en_US">Weather</name>
+  <name lang="ja_JP">Weather</name>
+ </names>
+ <supportedLanguages>
+  <language>ja_JP</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>ja_JP</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
